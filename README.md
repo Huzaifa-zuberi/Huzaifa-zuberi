@@ -36,6 +36,8 @@
 | [🎨 AI Image Generator](https://github.com/Huzaifa-zuberi/prodia-app) | Stable Diffusion image generation via HuggingFace API | Python, Flask |
 | [🖥️ Python Analyzer](https://github.com/Huzaifa-zuberi/python-analyzer) | Static code analyzer for syntax & style checking | C++, Python |
 
+| [📂 SQL Challenges](https://github.com/Huzaifa-zuberi/SQL-Challenges) | Smart Parking, E-Commerce Inventory, Churn Telemetry database designs | SQL, MySQL |
+
 ---
 
 ## 📈 GitHub Stats
