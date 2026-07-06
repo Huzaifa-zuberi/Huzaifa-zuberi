@@ -38,6 +38,8 @@
 
 | [📂 SQL Challenges](https://github.com/Huzaifa-zuberi/SQL-Challenges) | Smart Parking, E-Commerce Inventory, Churn Telemetry database designs | SQL, MySQL |
 
+| [🧮 Kruskal's MST](https://github.com/Huzaifa-zuberi/KruskalMST-Algorithm) | Interactive Windows Forms app for Minimum Spanning Tree with Union-Find | C#, .NET |
+
 ---
 
 ## 📈 GitHub Stats
