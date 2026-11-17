@@ -1,22 +1,32 @@
+
 <div align="center">
 
-# Hi, I'm Huzaifa Zuberi 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,35:1D4ED8,70:7C3AED,100:06B6D4&text=HUZAIFA%20ZUBERI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20Ideas%20Into%20Real%20Products&descAlignY=58&descSize=17&animation=fadeIn" />
 
-### Flutter & Full-Stack Developer · AI/ML Builder · CS Undergraduate
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=750&height=55&lines=Flutter+%26+Full-Stack+Developer;AI+%2F+Machine+Learning+Enthusiast;Computer+Vision+%7C+REST+APIs+%7C+Databases;Turning+Ideas+Into+Working+Products" alt="Typing SVG" />
+</a>
 
-I build mobile apps, web platforms, APIs, and AI-powered tools, from database design to a working product.
+<br/>
 
-<p>
-  <a href="https://huzaifa-zuberi.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/huzaifa-zuberi">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mhuzaifazuberi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Huzaifa-zuberi&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Huzaifa-zuberi?label=FOLLOWERS&style=for-the-badge&color=0EA5E9" />
+
+<br/><br/>
+
+<a href="https://huzaifa-zuberi.github.io/portfolio/">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_My_Work-2563EB?style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/huzaifa-zuberi">
+<img src="https://img.shields.io/badge/💼_LINKEDIN-Connect-0A66C2?style=for-the-badge" />
+</a>
+<a href="mailto:mhuzaifazuberi@gmail.com">
+<img src="https://img.shields.io/badge/✉️_EMAIL-Contact_Me-EA4335?style=for-the-badge" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/OPEN_TO_WORK-Flutter%20%7C%20Full--Stack%20%7C%20AI%2FML-16A34A?style=for-the-badge&logo=handshake&logoColor=white" />
 
 </div>
 
@@ -24,100 +34,212 @@ I build mobile apps, web platforms, APIs, and AI-powered tools, from database de
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science undergraduate at **Iqra University, Karachi** (expected graduation Dec 2027) and a freelance Flutter / full-stack developer. I like taking an idea all the way to a working product: the data model, the API, the interface, and, where it fits, a machine learning or computer vision layer.
+Hey! I'm **Huzaifa Zuberi**, a Computer Science undergraduate and freelance Flutter & Full-Stack Developer from Karachi, Pakistan.
 
-- 💼 Freelance Flutter & full-stack developer in Karachi (2025 – present)
-- 🎓 Vice President, Computing and Emerging Technologies Society, Iqra University (Airport Campus)
-- 🔭 Currently building: a voice-driven AI smartwatch for my Final Year Project
-- 🧠 Focus areas: ML-powered products, computer vision (OpenCV, YOLO), REST APIs, relational databases
-- 📍 Karachi, Pakistan
+I enjoy building practical software products — from mobile applications and web platforms to REST APIs, machine learning systems and computer vision solutions.
+
+I focus on turning ideas into functional products with clean interfaces, reliable backends and useful features.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Mobile Development
+Flutter and cross-platform application development.
+
+### 🌐 Full-Stack Development
+Web applications, backend systems and REST APIs.
+
+### 🤖 AI & Machine Learning
+Predictive models, AI-powered applications and computer vision.
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ Database Engineering
+Relational database design, SQL and data management.
+
+### 🔭 Currently Exploring
+A voice-driven AI smartwatch.
+
+### 📍 Location
+Karachi, Pakistan 🇵🇰
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-### AI, Computer Vision & Data Science
+<div align="center">
+<img src="https://img.shields.io/badge/PROJECTS-BUILDING%20REAL%20SOLUTIONS-7C3AED?style=for-the-badge" />
+</div>
 
-| Project | What it does | Tech |
-|---|---|---|
-| [🚦 Speed Camera System](https://github.com/Huzaifa-zuberi/speed-camera) | Detects vehicles and number plates, reads them with OCR, tracks speed, and generates traffic fines. | Python, OpenCV, YOLO/ONNX, Flask |
-| [📊 Customer Churn Prediction](https://github.com/Huzaifa-zuberi/Data-Science-Project) | End-to-end ML platform for predicting customer churn, with model evaluation and an analytics dashboard. | Python, Scikit-learn, XGBoost, FastAPI, Streamlit |
-| [⚡ AegisFlow](https://github.com/Huzaifa-zuberi/aegisflow) | Ingests leads, scores them with machine learning, and sends automated alerts. | Python, FastAPI, SQLAlchemy |
-| [🎨 AI Image Generator](https://github.com/Huzaifa-zuberi/prodia-app) | Text-to-image app built on Stable Diffusion APIs. | Python, Flask, Hugging Face |
-| [👁️ Computer Vision Tools](https://github.com/Huzaifa-zuberi/computer-vision) | Image-processing utilities and computer vision experiments. | Python, OpenCV, Flask |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Full-Stack & Databases
+### 🚦 Speed Camera System
 
-| Project | What it does | Tech |
-|---|---|---|
-| [🎙️ CallAI](https://github.com/Huzaifa-zuberi/ai-call-center) | AI-powered call center with voice agents, customer management, and call analytics. | Next.js, Prisma, SQLite, Tailwind CSS |
-| [🎵 PulseDB](https://github.com/Huzaifa-zuberi/PulseDB) | Music streaming dashboard with a database-backed API. | SQL Server, Python, Flask, JavaScript |
-| [📂 SQL Challenges](https://github.com/Huzaifa-zuberi/SQL-Challenges) | Database design and SQL problem-solving projects. | SQL, MySQL |
+Vehicle and number plate detection with OCR, speed tracking and automated traffic fine generation.
 
-### Systems & Algorithms
+**Technologies:**  
+`Python` `OpenCV` `YOLO/ONNX` `Flask`
 
-| Project | What it does | Tech |
-|---|---|---|
-| [🖥️ Python Analyzer](https://github.com/Huzaifa-zuberi/python-analyzer) | Code analyzer with token analysis, syntax diagnostics, and symbol tables. | C++, Python, JavaScript |
-| [🧮 DAA Algorithms](https://github.com/Huzaifa-zuberi/DAA) | Interactive Minimum Spanning Tree implementation using Union-Find. | C#, .NET |
+<a href="https://github.com/Huzaifa-zuberi/speed-camera">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/Huzaifa-zuberi?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-All%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore all repositories" />
-  </a>
-</p>
+</td>
+<td width="50%" valign="top">
+
+### 📊 Customer Churn Prediction
+
+End-to-end machine learning platform for predicting customer churn with model evaluation and analytics.
+
+**Technologies:**  
+`Python` `Scikit-learn` `XGBoost` `FastAPI` `Streamlit`
+
+<a href="https://github.com/Huzaifa-zuberi/Data-Science-Project">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-16A34A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ CallAI
+
+AI-powered call center application featuring voice agents, customer management and call analytics.
+
+**Technologies:**  
+`Next.js` `Prisma` `SQLite` `Tailwind CSS`
+
+<a href="https://github.com/Huzaifa-zuberi/ai-call-center">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ AegisFlow
+
+Lead ingestion and scoring system using machine learning with automated alerts and a dashboard.
+
+**Technologies:**  
+`Python` `FastAPI` `SQLAlchemy` `Machine Learning`
+
+<a href="https://github.com/Huzaifa-zuberi/aegisflow">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-9333EA?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎵 PulseDB
+
+Music streaming dashboard backed by a relational database and API.
+
+**Technologies:**  
+`SQL Server` `Python` `Flask` `JavaScript`
+
+<a href="https://github.com/Huzaifa-zuberi/PulseDB">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-DB2777?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 AI Image Generator
+
+Text-to-image application built using Stable Diffusion APIs.
+
+**Technologies:**  
+`Python` `Flask` `Hugging Face`
+
+<a href="https://github.com/Huzaifa-zuberi/prodia-app">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-F97316?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>✨ Explore More Projects</b></summary>
+
+<br/>
+
+| Project | Description | Technologies |
+|:--|:--|:--|
+| [Computer Vision Tools](https://github.com/Huzaifa-zuberi/computer-vision) | Image-processing utilities and computer vision experiments | Python, OpenCV |
+| [Python Analyzer](https://github.com/Huzaifa-zuberi/python-analyzer) | Code analysis, token analysis and syntax diagnostics | C++, Python, JavaScript |
+| [SQL Challenges](https://github.com/Huzaifa-zuberi/SQL-Challenges) | Database design and SQL problem solving | SQL, MySQL |
+| [DAA Algorithms](https://github.com/Huzaifa-zuberi/DAA) | Interactive Minimum Spanning Tree using Union-Find | C#, .NET |
+
+</details>
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-
-**Mobile & Web**<br>
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Backend & APIs**<br>
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-**AI, ML & Data**<br>
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-
-**Databases & Tools**<br>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-## 📈 GitHub Stats
+## 🧰 Technologies & Tools
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Huzaifa-zuberi&show_icons=true&hide_border=true&theme=tokyonight" alt="Huzaifa Zuberi GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-zuberi&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used programming languages" />
+### 💻 Programming Languages
 
-<img src="https://streak-stats.demolab.com?user=Huzaifa-zuberi&hide_border=true&theme=tokyonight" alt="GitHub contribution streak" />
+<img src="https://skillicons.dev/icons?i=python,dart,js,cpp,c,cs,java&theme=dark" />
+
+### 📱 Mobile & Frontend
+
+<img src="https://skillicons.dev/icons?i=flutter,nextjs,html,css,tailwind&theme=dark" />
+
+### ⚙️ Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,prisma,firebase&theme=dark" />
+
+### 🧠 AI, Machine Learning & Data
+
+<img src="https://skillicons.dev/icons?i=opencv,sklearn,pandas&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+### 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Huzaifa-zuberi&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=CBD5E1" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-zuberi&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&langs_count=8" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Huzaifa-zuberi&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Huzaifa-zuberi&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
@@ -125,23 +247,34 @@ I'm a Computer Science undergraduate at **Iqra University, Karachi** (expected g
 
 ## 🎓 Education
 
-**BS Computer Science**, Iqra University, Karachi, Pakistan · 2024 – Dec 2027 (expected)
-
-Relevant coursework: Analysis of Algorithms, Data Structures & Algorithms, Object-Oriented Programming, Probability & Statistics, Multivariable Calculus, Digital Logic Design
+**Bachelor of Science in Computer Science**  
+Iqra University, Karachi, Pakistan  
+2024 – Present
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm happy to connect with developers, recruiters, and teams building meaningful technology.
+I'm interested in opportunities involving **Flutter Development, Mobile Applications, Full-Stack Software Development, AI and Machine Learning**.
 
-<p align="center">
-  <a href="mailto:mhuzaifazuberi@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/huzaifa-zuberi">💼 LinkedIn</a> •
-  <a href="https://huzaifa-zuberi.github.io/portfolio/">🌐 Portfolio</a> •
-  <a href="https://github.com/Huzaifa-zuberi">🐙 GitHub</a>
-</p>
+If you're working on something interesting or looking for a developer, let's connect!
 
-<p align="center">
-  <b>Open to Flutter / mobile, full-stack, and AI/ML opportunities.</b>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/huzaifa-zuberi">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mhuzaifazuberi@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://huzaifa-zuberi.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 💡 "Great software starts with a simple idea."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:7C3AED,70:1D4ED8,100:0F172A&height=120&section=footer" />
+
+</div>
